@@ -1,6 +1,6 @@
 <?php
 
-namespace Dez\Loader;
+namespace Colibri\Loader;
 
 /**
  * Class Loader
