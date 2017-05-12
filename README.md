@@ -1,2 +1,1 @@
-# dez-loader
-DezPHP - Loader Component
+# loader
