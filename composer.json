@@ -1,5 +1,5 @@
 {
-  "name": "colibriphp/loader",
+  "name": "colibrilabs/loader",
   "description": "Universal Autoloader",
   "keywords": ["php loader", "php autoloader", "loader", "autoloader"],
   "authors": [
