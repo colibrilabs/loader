@@ -1,13 +1,12 @@
 <?php
 
-namespace Colibri\Loader;
+namespace Colibri\Loader\ClassLoader;
 
 /**
- * Class Loader
- *
- * @package Dez\Loader
+ * Class ClassLoader
+ * @package Colibri\Loader\ClassLoader
  */
-class Loader
+class ClassLoader
 {
 
   /**
