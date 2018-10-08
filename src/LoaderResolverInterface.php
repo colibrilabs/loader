@@ -1,10 +1,10 @@
 <?php
 
-namespace Colibri\Loader;
+namespace Subapp\Loader;
 
 /**
  * Interface LoaderResolverInterface
- * @package Colibri\Loader
+ * @package Subapp\Loader
  */
 interface LoaderResolverInterface
 {

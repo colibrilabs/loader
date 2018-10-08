@@ -1,5 +1,5 @@
 {
-  "name": "colibrilabs/loader",
+  "name": "subapp/loader",
   "description": "Universal Autoloader",
   "keywords": ["php loader", "php autoloader", "loader", "autoloader"],
   "authors": [
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Colibri\\Loader\\": "src/"
+      "Subapp\\Loader\\": "src/"
     }
   }
 }

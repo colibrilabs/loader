@@ -1,10 +1,10 @@
 <?php
 
-namespace Colibri\Loader\ClassLoader;
+namespace Subapp\Loader\ClassLoader;
 
 /**
  * Class ClassLoader
- * @package Colibri\Loader\ClassLoader
+ * @package Subapp\Loader\ClassLoader
  */
 class ClassLoader
 {
